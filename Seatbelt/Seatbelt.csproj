@@ -7,8 +7,8 @@
     <ProjectGuid>{AEC32155-D589-4150-8FE7-2900DF4554C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Seatbelt</RootNamespace>
-    <AssemblyName>Seatbelt</AssemblyName>
+    <RootNamespace>Fakebelt</RootNamespace>
+    <AssemblyName>Fakebelt</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
